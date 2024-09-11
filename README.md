@@ -22,9 +22,11 @@ Meu hobby atualmente são jogos que trazem uma simulação de estar dirigindo um
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-2b0005?style=for-the-badge&logo=python)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)>
 
 ## Bibliotecas e Frameworks
+
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
