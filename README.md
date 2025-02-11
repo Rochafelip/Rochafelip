@@ -1,9 +1,11 @@
 
  Felipe Rocha | Rochafelip
 
-Olá, tudo bem? Sou Felipe.
-Sou formado em Ciência da Computação no ano de 2024, e estou estudando cursos livres e pela DIO no momento, faço bootcamps na área que eu gosto, como Java aprendido na faculdade, C# e .Net, em Projeto de Extensão pela Universidade, no momento estou me aventurando pelo Kotlin. 
-Meu hobby atualmente são jogos que trazem uma simulação de estar dirigindo um carro de verdade, os simuladores não apenas traz minha paixão por carros, mas também a paixão por desafios técnicos e habilidades de tomada rápida de decisão, destacando-se a capacidade de concentração, análise e adaptação a ambientes de constante mudança que vou encontrar durante meu trajeto.
+Olá, tudo bem? Sou Felipe, formado em Ciência da Computação em 2024. Atualmente, estou ampliando meus conhecimentos por meio de cursos na DIO e participando de bootcamps focados em áreas que me interessam, como Java, que aprendi durante a faculdade, além de C# e .NET, explorados em um projeto de extensão universitário. No momento, estou me aventurando com Kotlin, o que tem sido uma experiência enriquecedora.
+
+Recentemente, concluí um curso de Back-end com foco em Ruby na SOFTEX Pernambuco, no qual me identifiquei bastante. Esse curso despertou ainda mais meu interesse pela área, e estou motivado a ganhar mais experiência prática com Ruby, especialmente em desenvolvimento web com Ruby on Rails.
+
+Fora da programação, sou apaixonado por simuladores de direção. Eles não só refletem meu interesse por carros, mas também desafiam minhas habilidades de concentração, análise e adaptação a cenários em constante mudança—competências que considero valiosas tanto na vida pessoal quanto na carreira de tecnologia.
 
 
 ## Conecte-se comigo
