@@ -9,7 +9,7 @@
 
 ## 🧪 Projetos em Destaque
 
-🔹 [Agendamento Kartódromo](https://github.com/Rochafelip/scheduling_system)  
+🔹 [Full Stack - (Agendamento Kartódromo)](https://github.com/Rochafelip/scheduling_system)  
 Sistema de reservas com Ruby on Rails, Hotwire e PostgreSQL, focado em desempenho e experiência do usuário.  
 **Stack:** Rails • Turbo • RSpec • Devise • PostgreSQL
 
