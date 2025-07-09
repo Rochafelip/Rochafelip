@@ -17,10 +17,6 @@ Sistema de reservas com Ruby on Rails, Hotwire e PostgreSQL, focado em desempenh
 API RESTful para gerenciamento de garantias, desenvolvida com foco em boas práticas, testes automatizados e integração com front-end via Turbo.
 **Stack:** Ruby on Rails • Turbo • RSpec • Devise Token Auth • PostgreSQL • Swagger
 
-## Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rochafelip&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b0005?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/feliperochafrs/)
 
@@ -59,13 +55,16 @@ API RESTful para gerenciamento de garantias, desenvolvida com foco em boas prát
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
-
 ### 📫 Vamos conversar?
 Fique à vontade para explorar meus repositórios e me chamar para trocar ideias sobre código, carreira ou projetos.  
 📩 **Email:** rocha.felipe98@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/feliperocha98](https://www.linkedin.com/in/feliperocha98)
 
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rochafelip&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rochafelip&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rochafelip&theme=bear&background=000000&border=30A3DC&datesColor=FFFFFF)](https://git.io/streak-stats)
+
