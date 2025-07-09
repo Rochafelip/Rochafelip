@@ -9,11 +9,11 @@
 
 ## 🧪 Projetos em Destaque
 
-🔹 [Full Stack - (Agendamento Kartódromo)](https://github.com/Rochafelip/scheduling_system)  
+🔹 [Full-Stack - Agendamento Kartódromo (Scheduling System)](https://github.com/Rochafelip/scheduling_system)  
 Sistema de reservas com Ruby on Rails, Hotwire e PostgreSQL, focado em desempenho e experiência do usuário.  
 **Stack:** Rails • Turbo • RSpec • Devise • PostgreSQL
 
-🔹 [ Back-End - Only API (Warranty Manager)](https://github.com/Rochafelip/warranty-manager-backend)  
+🔹 [ Back-End - Gerenciador de Garantia (Warranty Manager)](https://github.com/Rochafelip/warranty-manager-backend)  
 API RESTful para gerenciamento de garantias, desenvolvida com foco em boas práticas, testes automatizados e integração com front-end via Turbo.
 **Stack:** Ruby on Rails • Turbo • RSpec • Devise Token Auth • PostgreSQL • Swagger
 
