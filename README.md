@@ -60,7 +60,7 @@
 ### 📫 Vamos conversar?
 Fique à vontade para explorar meus repositórios e me chamar para trocar ideias sobre código, carreira ou projetos.  
 📩 **Email:** rocha.felipe98@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/feliperocha98](https://www.linkedin.com/in/feliperocha98)
+🌐 **LinkedIn:** [linkedin.com/in/feliperochafrs](https://www.linkedin.com/in/feliperochafrs)
 
 ## Github Stats
 
