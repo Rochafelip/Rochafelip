@@ -2,7 +2,7 @@
 
 # Felipe Rocha
 
-**Desenvolvedor Backend** · Ruby on Rails · APIs REST
+**Desenvolvedor Backend** · Java · APIs REST
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperochafrs/)
 [![Email](https://img.shields.io/badge/Email-30A3DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rocha.felipe98@gmail.com)
@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Desenvolvedor backend com formação em Ciência da Computação (2024), focado em **Ruby on Rails** e construção de APIs limpas, testadas e bem documentadas. Interesse contínuo em boas práticas de engenharia de software, e explorando também Java, C#/.NET, Kotlin, React e Hotwire.
+Desenvolvedor backend com formação em Ciência da Computação (2024), focado no ecossistema **Java** (Spring, Spring Boot) e construção de APIs limpas, testadas e bem documentadas. Também atuo com Ruby on Rails, e exploro C#/.NET, Kotlin, React e Hotwire.
 
 ## Projetos em destaque
 
@@ -23,10 +23,19 @@ Desenvolvedor backend com formação em Ciência da Computação (2024), focado 
 
 ## Stack técnica
 
-**Back-End**
+**Ecossistema Java**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Outras Linguagens & Frameworks**
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 **Front-End**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,11 +46,6 @@ Desenvolvedor backend com formação em Ciência da Computação (2024), focado 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-
-**Frameworks**
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
